@@ -32,11 +32,11 @@ measure impact with appropriate statistical rigor.
 
 1. **Retained Rate by Group**
 
-![chart image 1](outputs\ab_test_result_plot.png)
+![chart image 1](outputs/ab_test_result_plot.png)
 
 2. **Calibration Curve**
 
-![chart image 2](outputs\calibration_curve.png)
+![chart image 2](outputs/calibration_curve.png)
 
 ## Project Structure
 
